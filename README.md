@@ -3,7 +3,7 @@
 
 ---
 ## Problem Statement
-There are times when you're in a comfortable position and want to do something on your computer without having to move just quiet yet. Or you're a bit too busy to type or move the mouse at the moment. This project will tackle the idea of having a voice command assistant that can do certain tasks simply by telling your computer what to do. Similar to a "okay google" or "Alexa".
+There are times when you're in a comfortable position and want to do something on your computer without having to move just quite yet. Or you're a bit too busy to type or move the mouse at the moment. This project will tackle the idea of having a voice command assistant that can do certain tasks simply by telling your computer what to do. Similar to a "okay google" or "Alexa".
 
 ## Executive Summary
 We all know the usefulness of voice activated virtual assistants such as an amazon echo or google home. Both devices however won't help you much when you're on your computer. In this project, we will code out a voice command that can do a variety of things on your computer, such as:
